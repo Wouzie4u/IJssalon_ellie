@@ -31,7 +31,7 @@ def combinatie(invoer_lijst_2):
     korte_lijst = laag_en_hoog(invoer_lijst_2)
     return mijn_functie_2(korte_lijst[0],korte_lijst[1])
 
-print(combinatie([10,5,3,2,1,2,9]))
+
 
 #ik heb het argument aangepast, omdat bij het testen van de code een melding komt dat mijn_functie_2, 2 waarden moet bevatten:
 #foutmelding: TypeError: mijn_functie_2() missing 1 required positional argument: 'c'
